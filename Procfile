@@ -1,1 +1,1 @@
-web: gunicorn emailsever.wsgi
+web: gunicorn project3.wsgi
