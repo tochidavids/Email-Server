@@ -55,4 +55,4 @@ To **log out**, simply click on the `Log out` button.
 
 -   [Portfolio Website](https://tochidavids.netlify.app)
 -   GitHub [@tochidavids](https://github.com/tochidavids)
--   Email - tochidavids18@gmail.com
+-   Email tochidavids18@gmail.com
