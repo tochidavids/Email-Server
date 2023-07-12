@@ -29,7 +29,7 @@
 
 <!-- Example: -->
 
-To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js](https://www.python.org/) and [Django](https://www.djangoproject.com/) installed on your computer. From your command line:
+To clone and run this application, you'll need [Git](https://git-scm.com), [Python](https://www.python.org/) and [Django](https://www.djangoproject.com/) installed on your computer. From your command line:
 
 ```bash
 # Clone this repository
